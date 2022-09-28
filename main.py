@@ -73,3 +73,6 @@ def play_game():
 while input("Hello mate. Fancy a game of Blackjack? Type 'y' or 'n' ") == "y":
   clear()
   play_game()
+  
+#bug fixes
+#it says "hello mate" everytime you play so that can potentially be very annoying :(
