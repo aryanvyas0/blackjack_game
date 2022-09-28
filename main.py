@@ -1,5 +1,6 @@
 import random
 from replit import clear
+#clear() is used to clear the screen on replit
 from art import logo
 
 def deal_card():
